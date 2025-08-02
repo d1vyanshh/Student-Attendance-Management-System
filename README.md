@@ -14,7 +14,7 @@ This project aims to ease out the manual attendance taking process in Schools/Co
 
 
 ### LOGIN PAGE: 
-![](/Screenshots/Login-page.JPG)
+![](/https://github.com/d1vyanshh/Student-Attendance-Management-System/blob/main/student-section.JPG?raw=true)
 
 ### TEACHERS/DASHBOARD PAGE:
 ![](/Screenshots/Dashboard.JPG)
